@@ -28,15 +28,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
-### Screenshot
-
-Finished project on a 1440px screen
-![Finished project on 1440px](solution/PC%20solution.png)
-
-Finished project on a 375px screen
-<br />
-![Finished project on 375px](solution/Phone%20solution.png)
-
 ### Links
 
 - Solution URL: [solution on my frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
