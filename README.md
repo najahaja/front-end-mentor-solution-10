@@ -28,10 +28,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
-### Links
 
-- Solution URL: [solution on my frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
-- Live Site URL: [live site on netlify](https://helpful-tanuki-5f3094.netlify.app/)
 
 ## My process
 
@@ -74,8 +71,4 @@ Some pages i wish i could find earlier:
 - [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
 - [CSS Grid Cheat Sheet](https://grid.malven.co/)
 - [Flexbox Cheat Sheet](https://flexbox.malven.co/)
-
-## Author
-
-- Frontend Mentor - [@zsoltvarju](https://www.frontendmentor.io/profile/zsoltvarju)
 
